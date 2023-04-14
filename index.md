@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Human Oriented Ontology
 ---
-
+This is my homepage.

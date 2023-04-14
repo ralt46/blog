@@ -1,4 +1,4 @@
 ---
 title: Human Oriented Ontology
 ---
-This is my homepage.
+This is **my homepage**.
